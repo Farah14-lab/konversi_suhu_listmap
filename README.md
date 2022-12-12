@@ -1,16 +1,10 @@
-# konversi_suhu_listmap
+# konversi_suhu_flutter
 
-A new Flutter project.
+Nama  : Farah Zulfa Hamidah</br>
+Absen : 12</br>
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Hasil Screenshot </br>
+![project_flutter](images/awal.PNG) </br>
+![project_flutter](images/kelvin.PNG) </br>
+![project_flutter](images/reamur.PNG) </br>
+![project_flutter](images/fahrenheit.PNG) </br>
